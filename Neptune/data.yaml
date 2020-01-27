@@ -1,16 +1,3 @@
-# MMS Skin Example
-
-In this repo you can find an example for the File adapter of [MMS](https://t.me/MoeMoeSecretaryEN)<br>
-If you want a more detailed guide, follow [this](https://telegra.ph/Moe-Moe-Secretary-File-Adapter-Configuration-01-12)!
-
-## Structure
-- `base_folder`
-  - `audios`
-  - `skins`
-  - `data.yaml`
-
-## Example data.yaml
-```yaml
 dialogs:
   # This text will appear at the login
   - dialog: Welcome back!
@@ -31,4 +18,3 @@ dialogs:
 skins:
   - skins/Neptune.png
   # You can set more skins
-```
